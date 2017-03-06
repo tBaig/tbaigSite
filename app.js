@@ -9,5 +9,5 @@ app.get('/*', function(req, res){
 })
 
 app.listen(8080, function(){
-	console.log("App is live on part 3000");
+	console.log("App is live on part 8080");
 })
