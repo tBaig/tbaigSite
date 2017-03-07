@@ -8,12 +8,12 @@ class Home extends React.Component{
 					<h2>About</h2>
 				</div>
 				<div id="postContent">
-					<ul>
+					<ul className="socialMedia">
 						<li>Present: Product Owner @ <a href="https://csc.com.com">CSC</a></li>
 						<li>Location: Los Angeles</li>
-						<li>LinkedIn: linkedin.com/</li>
-						<li>Twitter: <a href="https://twitter.com/toolbaig_talha">Twitter</a></li>
-						<li>Instagram: <a href="https://instagram.com/toolbaig">Instagram</a></li>
+						<li><a href="https://www.linkedin.com/in/mbaig91/">LinkedIn</a></li>
+						<li><a href="https://twitter.com/toolbaig_talha">Twitter</a></li>
+						<li><a href="https://instagram.com/toolbaig">Instagram</a></li>
 					</ul>
 				</div>
 			</div>
