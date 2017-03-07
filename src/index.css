@@ -120,7 +120,11 @@
 	}
 
 	h1{
-		font-size: 6vw;
+		font-size: 8vw;
+	}
+
+	h2{
+		font-size: 5.5vw;
 	}
 
 	#cheezyText{
@@ -239,12 +243,10 @@
 		float: right;
 	}
 
-	#blogtitle{
-		text-align: center;
-	}
 
 	#blogPost{
 		padding: 3em 3em;
+		text-align: left;
 	}
 	#housing{
 		text-align: left;
