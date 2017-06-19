@@ -1,10 +1,81 @@
 import React, { Component } from 'react';
-import { Router, Route, Link } from 'react-router'
+import { Router, Route, Link } from 'react-router';
+import prontoxubfront from './images/prontoxubfront.png';
 
 class Blog extends React.Component{
   render(){
     return (
       <div id="blogPost">
+        <h2><span id="blogtitle">Denim Denim Denim</span> <span id="date">03.24.16</span></h2>
+        <div id="mainImage">
+          <img src={prontoxubfront} alt="prontoxubfront" height="500px"/>
+        </div>
+        <div class="blogContent">
+          <p>
+            Selvedge denim has been a hobby of mine for quite a few years now. Selvedge denim refers to denim that is tightly woven on a 
+            shuttle loom and when the fabric comes out of the loom it comes finished with a “self-edge”. The denim’s texture will feel 
+            very rigid and thick upon touch. On the initial wear it will feel uncomfortable and almost cardboard but will mold to the 
+            wearer’s physique on subsequent wears. Why then buy a pair of denim that will be uncomfortable and may bleed indigo onto 
+            your shoes? It’s because of the denim’s unique ability to fade over consistent wears which will make it look faded and 
+            distressed. When you go to the store and view pre-distressed denim, you are viewing denim that has been distressed for 
+            you by the manufacturer. The whiskers you see around the crotch and thigh area, the fading of the indigo, and the honeycombs 
+            on the back of the leg have been produced by the manufacturer which to me, takes the fun out of distressing a pair of denim 
+            yourself. After time, the denim will mold to you and will be a unique pair of art you can show off and wear.
+          </p>
+          <p>
+            Here are a few tips for when you’re buying your first pair of selvedge denim:
+            <ul>
+              <li>Patience is the name of the game. The awesome fades and rips you see in denim, such as mine pictured below, require time. 
+              The two pairs of denim you see below took me about a year to get to that level of fading.
+              </li>
+              <li>They will be uncomfortable in the waist and crotch area on the first few wears. Continue to wear them as this is normal 
+              behavior for selvedge denim. I find squatting in them helps to loosen them up.
+              </li>
+              <li>The indigo dye will bleed. The indigo will bleed onto your shoe, rub off on a wall you’re leaning up against, or the
+               leather in your car. You can use a Magic Eraser Pad to clean up the indigo rub off.  
+              </li>
+              <li>Don’t wash them for at least six months. I know it sounds dirty but the more you wash them the quicker the indigo dye
+               will leave the fabric. I recommend washing them every six months in a tub filled with cold water and Woolite dark detergent
+               </li>
+            </ul>
+            So go and wear that hell out of that new pair of selvedge denim you got and show me the results!
+          </p>
+          <hr />
+          <h2><span id="blogtitle">Fitness First</span> <span id="date">01.16.16</span></h2>
+          <p>
+            For me, working out is an activity I have always enjoyed. My friends know this as well and they often turn to me for workout
+            and dieting advice. So I figured I’d put this post together to talk through how to stay fit and eat right. Staying fit is a 
+            function of time and energy. You need to carve out X amount of days each week to workout and have the energy and will power to 
+            push yourself to finish each workout to the best of your ability. Whatever medium you chose to workout is up to you but the 
+            important part is to continue to apply progressive overload. Progressive overload is to the ability to push yourself further 
+            than you pushed yourself the last workout. It can be applied by increasing the weight you did last week on bench press or 
+            running on a higher incline that last time. If you don’t apply this principle you will plateau, workouts will be less fun, 
+            and you won’t make gains as fast as you would have wanted.
+          </p>
+          <p>
+            Stick to a workout plan and record your progress via an app, such as <a href="http://www.myfitnesspal.com/mobile/iphone">MyFitnessPal</a>. 
+            I recommend <a href="http://startingstrength.com/">Starting Strength</a> or <a href="https://stronglifts.com/5x5/">Strong Lifts 5x5</a> for beginners. These programs focus on compound lifts and teach you the basics on how to
+            get started lifting weights. The app will also help you track your progress and provide a nice graph of the progress you have 
+            made over time. The best part about being a beginner, is that you will see gains quickly and your strength will increase quickly as well. Focus on pushing yourself harder 
+            than you did in the previous workout and applying progressive overload to each workout. This way you will be challenging your 
+            body each workout and will not plateau. Lastly, find a workout partner or go to a gym in which you have friends at. Seeing 
+            others working out and making gains will encourage you to do the same
+          </p>
+          <p>
+            Working out is the easy part of your fitness journey; the difficult part is keeping your diet in check. Go to this
+             <a href="https://www.bodybuilding.com/fun/macronutrients_calculator.htm">site</a>, and calculate your daily macronutrients.
+              This is a breakdown of how many grams of fat, carbs, and protein you should intake each day. 
+            MyFitnessPal has a built-in feature to allow you to track your macros, so every time you have a meal, enter what you ate in the 
+            app and it will let you know how many grams of fat, carbs, or protein are in the food. It is imperative that you watch your 
+            macros as this will allow you to get a lot leaner than eyeballing your diet. And if you’re really up for it, buy a food scale,
+            this way you can track how many grams of food you are eating each day for a more accurate breakdown of your macros. Lastly, 
+            plan a cheat meal every month. This is a meal that doesn’t need to fit your diet. This is much needed and will help keep you 
+            sane along your fitness journey. Don’t wait for the new year to say, “New Year, New Me”; start today and go get those gains. 
+          </p>
+          <br/>
+          DISCLAIMER: Consult your physician before you start a workout plan or make changes to your diet.
+        </div>
+        <hr />
         <h2><span id="blogtitle">How to SouthBy</span> <span id="date">12.24.16</span></h2>
         <p>
           Another year, another South by Southwest. Here are my tips for newcomers who want to experience SxSw and stay afloat with all the madness that overtakes Austin in mid-March.
@@ -15,7 +86,7 @@ class Blog extends React.Component{
         </p>
         <h3>It’s a Marathon, Not a Sprint</h3>
         <p>
-          South By is overwhelming. The lines are long, and FOMO kicks in fast so be sure to pace yourself, or you’ll be sluggish by week two. I was living in downtown Austin during South By ’16 and I felt overwhelmed by all the activities happening. The city is definitely ‘woke’. I paced myself by taking mid-day naps, definitely a major key.   
+          South By is overwhelming. The lines are long, and FOMO kicks in fast so be sure to pace yourself, or you’ll be sluggish by week two. I was living in downtown Austin during South By ’16 and I felt overwhelmed by all the activities happening. The city is definitely alive and bustling. I paced myself by taking mid-day naps, definitely a major key.   
         </p>
         <h3>Safety First</h3> 
         <p>

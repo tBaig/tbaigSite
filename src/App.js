@@ -25,7 +25,7 @@ class App extends React.Component{
           <div id="leftContainer">
             <div id="nav">
               <h1 id="name"> Mirza T. Baig</h1>
-              <h4 id="cheezyText"> Product Owner By Profession, Urban Dweller, Workout Fanatic, Technology Lover </h4>
+              <h4 id="cheezyText"> Product Manager By Profession, Urban Dweller, Workout Fanatic, Technology Lover </h4>
               <ul id="navlist">
                 <li className="ultest"><Link to="/">About</Link></li>
                 <li className="ultest"><Link to="/blog">Blog</Link></li>

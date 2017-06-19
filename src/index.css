@@ -92,6 +92,12 @@
 		text-align: initial;
 	}
 
+	#mainImage{
+		float: left;
+		position: relative;
+	}
+	
+
 }
 
 @media only screen and (max-width: 736px){
@@ -250,6 +256,15 @@
 	}
 	#housing{
 		text-align: left;
+	}
+
+	#mainImage{
+		float: left;
+		position: relative;
+	}
+
+	#mainImage img{
+		height: 250px;
 	}
 
 }

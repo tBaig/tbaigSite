@@ -9,7 +9,7 @@ class Home extends React.Component{
 				</div>
 				<div id="postContent">
 					<ul className="socialMedia">
-						<li>Present: Product Owner @ <a href="https://csc.com.com">CSC</a></li>
+						<li>Present: Product Owner @ <a href="https://dxc.technology">CSC</a></li>
 						<li>Location: Los Angeles</li>
 						<li><a href="https://www.linkedin.com/in/mbaig91/">LinkedIn</a></li>
 						<li><a href="https://twitter.com/toolbaig_talha">Twitter</a></li>
