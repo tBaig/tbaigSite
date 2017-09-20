@@ -12,14 +12,14 @@ class Blog extends React.Component{
         </div>
         <div class="blogContent">
           <p>
-            Selvedge denim has been a hobby of mine for quite a few years now. Selvedge denim refers to denim that is tightly woven on a 
+            Selvedge denim has been a hobby of mine for quite a few years now. "Selvedge" refers to denim that is tightly woven on a 
             shuttle loom and when the fabric comes out of the loom it comes finished with a “self-edge”. The denim’s texture will feel 
-            very rigid and thick upon touch. On the initial wear it will feel uncomfortable and almost cardboard but will mold to the 
+            very rigid and thick upon touch. On the initial wear, it will feel uncomfortable and almost cardboard like but will mold to the 
             wearer’s physique on subsequent wears. Why then buy a pair of denim that will be uncomfortable and may bleed indigo onto 
             your shoes? It’s because of the denim’s unique ability to fade over consistent wears which will make it look faded and 
-            distressed. When you go to the store and view pre-distressed denim, you are viewing denim that has been distressed for 
+            distressed. When you go to a clothing store and look at pre-distressed denim, you are looking at denim that has been distressed for 
             you by the manufacturer. The whiskers you see around the crotch and thigh area, the fading of the indigo, and the honeycombs 
-            on the back of the leg have been produced by the manufacturer which to me, takes the fun out of distressing a pair of denim 
+            on the back of the leg have been produced by the manufacturer. Which to me, takes the fun out of distressing a pair of denim 
             yourself. After time, the denim will mold to you and will be a unique pair of art you can show off and wear.
           </p>
           <p>
@@ -32,13 +32,13 @@ class Blog extends React.Component{
               behavior for selvedge denim. I find squatting in them helps to loosen them up.
               </li>
               <li>The indigo dye will bleed. The indigo will bleed onto your shoe, rub off on a wall you’re leaning up against, or the
-               leather in your car. You can use a Magic Eraser Pad to clean up the indigo rub off.  
+               leather in your car. You can use a Magic Eraser Pad to clean the indigo rub off.  
               </li>
               <li>Don’t wash them for at least six months. I know it sounds dirty but the more you wash them the quicker the indigo dye
                will leave the fabric. I recommend washing them every six months in a tub filled with cold water and Woolite dark detergent
                </li>
             </ul>
-            So go and wear that hell out of that new pair of selvedge denim you got and show me the results!
+            So go and wear the hell out of that new pair of selvedge denim you got and show me the results!
           </p>
           <hr />
           <h2><span id="blogtitle">Fitness First</span> <span id="date">01.16.16</span></h2>
@@ -49,7 +49,7 @@ class Blog extends React.Component{
             push yourself to finish each workout to the best of your ability. Whatever medium you chose to workout is up to you but the 
             important part is to continue to apply progressive overload. Progressive overload is to the ability to push yourself further 
             than you pushed yourself the last workout. It can be applied by increasing the weight you did last week on bench press or 
-            running on a higher incline that last time. If you don’t apply this principle you will plateau, workouts will be less fun, 
+            running on a higher incline than last time. If you don’t apply this principle you will plateau, workouts will be less fun, 
             and you won’t make gains as fast as you would have wanted.
           </p>
           <p>
@@ -59,11 +59,11 @@ class Blog extends React.Component{
             made over time. The best part about being a beginner, is that you will see gains quickly and your strength will increase quickly as well. Focus on pushing yourself harder 
             than you did in the previous workout and applying progressive overload to each workout. This way you will be challenging your 
             body each workout and will not plateau. Lastly, find a workout partner or go to a gym in which you have friends at. Seeing 
-            others working out and making gains will encourage you to do the same
+            others working out and making gains will encourage you to do the same.
           </p>
           <p>
-            Working out is the easy part of your fitness journey; the difficult part is keeping your diet in check. Go to this
-             <a href="https://www.bodybuilding.com/fun/macronutrients_calculator.htm">site</a>, and calculate your daily macronutrients.
+            Working out is the easy part of your fitness journey; the difficult part is keeping your diet in check. Go to this 
+            <a href="https://www.bodybuilding.com/fun/macronutrients_calculator.htm"> site</a> and calculate your daily macronutrients.
               This is a breakdown of how many grams of fat, carbs, and protein you should intake each day. 
             MyFitnessPal has a built-in feature to allow you to track your macros, so every time you have a meal, enter what you ate in the 
             app and it will let you know how many grams of fat, carbs, or protein are in the food. It is imperative that you watch your 
@@ -90,7 +90,7 @@ class Blog extends React.Component{
         </p>
         <h3>Safety First</h3> 
         <p>
-          If you have seasonal allergies, I highly suggest you bring a nasal allergy spray with you. Austin is known to experience high levels of cedar pollen which can lead to seasonal allergies or locally known as cedar fever. Bring your favorite allergy medicine if you’re prone to seasonal allergies.
+          If you have seasonal allergies, I highly suggest you bring a nasal allergy spray with you. Austin is known to experience high levels of cedar pollen which can lead to seasonal allergies, locally known as cedar fever. Bring your favorite allergy medicine if you’re prone to seasonal allergies.
         </p>
         <h3>Lodging and Transportation</h3>
         <p>
@@ -135,7 +135,7 @@ class Blog extends React.Component{
         </p>
         <h3>Day Time Activities</h3>
         <p>
-          During the technology and film portion of South By, there are many fun things to do during the day. Paramount and Slate theaters will have the red carpet rolled out for screenings and usually, the stars of the films are also there. Check out Fast Company Grill, they have guest panels consisting of actors, directors, comedians, etc. Not only is their free food, but you’ll have a chance to interact with the panel speakers. Include the Google Fiber House on your list as well, I went there and played an arcade claw machine filled up with Google consumer devices and managed to win a free Google Nexus phone. Being observant goes a long way. Besides those two places, be sure to walk around Congress Ave., Rainey Street, and the Second Street District during the day. There are many cool things to see, like giant art installations, such as the life-size Star Wars’ TIE fighter they had last year. Unlike the music portion, lines are not long and you’ll have a better chance to score free swag during the technology and film portion too.<br /><br/>When the music portion of South By kicks in, it’s a different game; that feeling of FOMO I was describing you about earlier hits hard during this time. There will be multiple artists that you want to see all playing at the same time; the lines will be outrageously long and the ‘surprise’ concerts, which location gets tweeted out a few hours prior to general admission, will also have long lines. My advice, go early in the morning if you want to be at the popular houses, such as Spotify House, and be prepared to spend the majority of your day there. If you can go without seeing the mainstream artists, I would recommend checking out the less popular acts. 6th Street, Red River, and East 6th are where the majority of the popular venues are.
+          During the technology and film portion of South By, there are many fun things to do during the day. Paramount and Slate theaters will have the red carpet rolled out for screenings and usually, the stars of the films are also there. Check out Fast Company Grill, they have guest panels consisting of actors, directors, comedians, etc. Not only is there free food, but you’ll have a chance to interact with the panel speakers. Include the Google Fiber House on your list as well, I went there and played an arcade claw machine filled up with Google products and managed to win a free Google Nexus phone. Besides those two places, be sure to walk around Congress Ave., Rainey Street, and the Second Street District during the day. There are many cool things to see, like giant art installations, such as the life-size Star Wars’ TIE fighter they had last year. Unlike the music portion, lines are not long and you’ll have a better chance to score free swag during the technology and film portion too.<br /><br/>When the music portion of South By kicks in, it’s a different game; that feeling of FOMO I was describing you about earlier hits hard during this time. There will be multiple artists that you want to see all playing at the same time. The lines will be outrageously long and the ‘surprise’ concerts, which location gets tweeted out a few hours prior to general admission, will also have long lines. My advice, go early in the morning if you want to be at the popular houses, such as Spotify House, and be prepared to spend the majority of your day there. If you can go without seeing the mainstream artists, I would recommend checking out the less popular acts. 6th Street, Red River, and East 6th are where the majority of the popular venues are.
         </p>
         <h3>Night Time Activities</h3>  
         <p>
@@ -154,7 +154,7 @@ class Blog extends React.Component{
           <li>Twitter</li>
         </ul>
         <p>
-        RSVP'ing <br></br><br></br> There is a site called, ‘<a href="http://rsvpster.com/">RSPVster</a>’ which is a service you can pay for which automatically RSVPs you to all the unofficial events. I used this last time and it worked out pretty good for me. Use a secondary email address as they flood the gates with emails pretty hard. And if you are going with a group of friends, have one friend sign up for the service and the rest can RSVP manually by clicking the link in the email.
+        RSVP'ing <br></br><br></br> There is a site called, ‘<a href="http://rsvpster.com/">RSPVster</a>’ which is a service you can pay for which automatically RSVPs you to all the unofficial events. I used this last time and it worked out pretty good for me. Use a secondary email address as they will flood your inbox with emails. And if you are going with a group of friends, have one friend sign up and share out the RSVP links between your friends.
            
         </p>
       </div>
